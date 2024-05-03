@@ -1,0 +1,121 @@
+header {
+   text-align: center; 
+   padding: 20px;
+}
+body{
+   background: url(yugo\ asuma.jpeg) no-repeat fixed;
+   background-size: cover;
+}
+*{
+   box-sizing: border-box;
+}
+.row {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+}
+.post-text-box {
+   flex: 70%;
+   padding: 20px;
+   align-items: center;
+}
+.profile {
+   flex: 70%;
+   padding: 20px;
+   align-items: center;
+}
+.profile img {
+   width: 120px;
+   display: block;
+   margin-left: 0;
+   margin-right: 0;
+}
+.profile h1 {
+   text-align: center;
+}
+p {
+   color: black;
+   font-weight: bold;
+   font-size: large;
+}
+.kontak {
+   width: 30%;
+   height: 300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}
+.kemampuan {
+   width: 30%;
+   height: 200px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}
+.content {
+   width: 100%;
+   height: 300px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+h1 {
+   color:black;
+   font-weight: bold;
+   font-size:xx-large;
+}
+h2 {
+   color: black;
+   font-weight: bold;
+   font-size:xx-large;
+}
+li {
+   color:black;
+   font-weight: bold;
+   font-size: larger;
+}
+img {
+   width: 200px;
+   height: 200%;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}
+.keluarga {
+   width: 500px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+.Anime {
+   width: 500px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+.ayang {
+   width: 1300px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+.virtual {
+   width: 1300px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+.teman {
+   height: 300%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+
+.x5 {
+   width: 300px;
+}
+
+.yugo {
+   width: 220px;
+}
